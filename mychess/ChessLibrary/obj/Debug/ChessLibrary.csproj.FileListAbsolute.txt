@@ -1,0 +1,12 @@
+C:\Users\גל קובני\Desktop\project chess\mychess\ChessLibrary\bin\Debug\ChessLibrary.dll
+C:\Users\גל קובני\Desktop\project chess\mychess\ChessLibrary\bin\Debug\ChessLibrary.pdb
+C:\Users\גל קובני\Desktop\project chess\mychess\ChessLibrary\obj\Debug\ChessLibrary.csprojAssemblyReference.cache
+C:\Users\גל קובני\Desktop\project chess\mychess\ChessLibrary\obj\Debug\ChessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\גל קובני\Desktop\project chess\mychess\ChessLibrary\obj\Debug\ChessLibrary.dll
+C:\Users\גל קובני\Desktop\project chess\mychess\ChessLibrary\obj\Debug\ChessLibrary.pdb
+C:\Users\גל קובני\Desktop\שיעורים\פרויקטים\project chess\mychess\ChessLibrary\bin\Debug\ChessLibrary.dll
+C:\Users\גל קובני\Desktop\שיעורים\פרויקטים\project chess\mychess\ChessLibrary\bin\Debug\ChessLibrary.pdb
+C:\Users\גל קובני\Desktop\שיעורים\פרויקטים\project chess\mychess\ChessLibrary\obj\Debug\ChessLibrary.csprojAssemblyReference.cache
+C:\Users\גל קובני\Desktop\שיעורים\פרויקטים\project chess\mychess\ChessLibrary\obj\Debug\ChessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\גל קובני\Desktop\שיעורים\פרויקטים\project chess\mychess\ChessLibrary\obj\Debug\ChessLibrary.dll
+C:\Users\גל קובני\Desktop\שיעורים\פרויקטים\project chess\mychess\ChessLibrary\obj\Debug\ChessLibrary.pdb
